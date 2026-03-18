@@ -7,7 +7,8 @@
 *"Creando experiencias web innovadoras con código limpio y diseño funcional."*
 
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio-victoriapatarroyo.github.io-20679e?style=for-the-badge)](https://victoriapatarroyo.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria_Patarroyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriaeugeniapatarroyo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria_Patarroyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/victoriaeugeniapatarroyo-desarrolladora/)
 [![GitHub](https://img.shields.io/badge/GitHub-victoriapatarroyo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoriapatarroyo)
 
 </div>
