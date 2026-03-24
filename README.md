@@ -67,9 +67,9 @@ Participo en todo el ciclo de desarrollo de software, aplicando metodologías á
 |----------|-------------|-------------|------|
 | [📋 ToDo App](https://github.com/victoriapatarroyo/ToDoBoostrap) | Lista de tareas con Bootstrap | HTML · CSS · JS | [Ver](https://victoriapatarroyo.github.io/ToDoBoostrap/) |
 | [❤️ Simulador de Likes](https://github.com/victoriapatarroyo/TallerCardsLike) | Funcionalidad de likes sobre fotos de usuario | HTML · CSS · JS | [Ver](https://victoriapatarroyo.github.io/TallerCardsLike/) |
-| [🌤️ Consulta del Tiempo](https://github.com/victoriapatarroyo/OpenWeather_API) | Estado del tiempo integrando OpenWeather API | JavaScript · API REST | [Ver](https://victoriapatarroyo.github.io/OpenWeather_API/) |
 | [🔴 PokéSearch](https://github.com/victoriapatarroyo/PokemonAPI) | Buscador de Pokémon con favoritos en localStorage | JavaScript · PokéAPI | [Ver](https://victoriapatarroyo.github.io/PokemonAPI/) |
 | [🚀 NASA APOD](https://github.com/victoriapatarroyo/APINasa) | Imagen astronómica del día con la API de la NASA | JavaScript · API REST | [Ver](https://victoriapatarroyo.github.io/APINasa/) |
+| [🌤️ Consulta del Tiempo](https://github.com/victoriapatarroyo/OpenWeather_API) | Estado del tiempo integrando OpenWeather API | JavaScript · API REST | - |
 | [☕ POO en Java](https://github.com/victoriapatarroyo/Taller_ClasesObjetosJava) | Sistema de cinema y cafetería con POO | Java | — |
 
 ---
