@@ -7,8 +7,7 @@
 *"Creando experiencias web innovadoras con código limpio y diseño funcional."*
 
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio-victoriapatarroyo.github.io-20679e?style=for-the-badge)](https://victoriapatarroyo.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria_Patarroyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
-https://www.linkedin.com/in/victoriaeugeniapatarroyo-desarrolladora/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria_Patarroyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriaeugeniapatarroyo-desarrolladora/)
 [![GitHub](https://img.shields.io/badge/GitHub-victoriapatarroyo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoriapatarroyo)
 
 </div>
@@ -68,8 +67,9 @@ Participo en todo el ciclo de desarrollo de software, aplicando metodologías á
 |----------|-------------|-------------|------|
 | [📋 ToDo App](https://github.com/victoriapatarroyo/ToDoBoostrap) | Lista de tareas con Bootstrap | HTML · CSS · JS | [Ver](https://victoriapatarroyo.github.io/ToDoBoostrap/) |
 | [❤️ Simulador de Likes](https://github.com/victoriapatarroyo/TallerCardsLike) | Funcionalidad de likes sobre fotos de usuario | HTML · CSS · JS | [Ver](https://victoriapatarroyo.github.io/TallerCardsLike/) |
-| [🌤️ Consulta del Tiempo](https://github.com/victoriapatarroyo/OpenWeather_API) | Estado del tiempo integrando OpenWeather API | JavaScript · API REST | — |
-| [🎮 Pokémon API](https://github.com/victoriapatarroyo/Taller_PokemonAPI) | Consulta de Pokémon con Local Storage | JavaScript · PokéAPI | — |
+| [🌤️ Consulta del Tiempo](https://github.com/victoriapatarroyo/OpenWeather_API) | Estado del tiempo integrando OpenWeather API | JavaScript · API REST | [Ver](https://victoriapatarroyo.github.io/OpenWeather_API/) |
+| [🔴 PokéSearch](https://github.com/victoriapatarroyo/PokemonAPI) | Buscador de Pokémon con favoritos en localStorage | JavaScript · PokéAPI | [Ver](https://victoriapatarroyo.github.io/PokemonAPI/) |
+| [🚀 NASA APOD](https://github.com/victoriapatarroyo/APINasa) | Imagen astronómica del día con la API de la NASA | JavaScript · API REST | [Ver](https://victoriapatarroyo.github.io/APINasa/) |
 | [☕ POO en Java](https://github.com/victoriapatarroyo/Taller_ClasesObjetosJava) | Sistema de cinema y cafetería con POO | Java | — |
 
 ---
